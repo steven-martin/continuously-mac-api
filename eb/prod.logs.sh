@@ -1,0 +1,1 @@
+eb logs Continuously-Mac-API

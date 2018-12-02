@@ -1,0 +1,18 @@
+branch-defaults:
+  default:
+    environment: Continuously-Mac-API
+    group_suffix: null
+global:
+  application_name: Continuously-Mac-API
+  branch: null
+  default_ec2_keyname: dev
+  default_platform: Node.js
+  default_region: eu-west-2
+  include_git_submodules: true
+  instance_profile: null
+  platform_name: null
+  platform_version: null
+  profile: dev
+  repository: null
+  sc: null
+  workspace_type: Application

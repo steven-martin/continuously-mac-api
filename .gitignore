@@ -1,0 +1,4 @@
+node_modules/
+headlines/
+.env
+.DS_Store
