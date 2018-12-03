@@ -1,6 +1,6 @@
 # Continuously Mac: API
 
-An API for the Continuously Mac news website and iOS app.
+An API for the Continuously Mac news [webapp](https://github.com/steven-martin/continuously-mac-webapp) and iOS app.
 
 ## Features
 
