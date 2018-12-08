@@ -1,6 +1,6 @@
 {
   "name": "continuosly-mac-api",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "API for the Continuosly Mac news site",
   "author": "Steve Martin <steven_martin@me.com>",
   "license": "MIT",
@@ -22,7 +22,7 @@
     "dotenv": "^6.1.0",
     "express": "^4.16.4",
     "node-cron": "^1.2.1",
-    "twitter-headlines": "^1.0.0"
+    "twitter-headlines": "^1.1.0"
   },
   "devDependencies": {
     "eslint": "^5.9.0",
