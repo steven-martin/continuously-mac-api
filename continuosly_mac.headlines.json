@@ -56,11 +56,6 @@
   ],
   "categories": [
     {
-      "category": "iPad Pro",
-      "search_pattern": "ipad *pro",
-      "badge": "ipad_badge"
-    },
-    {
       "category": "iPad",
       "search_pattern": "ipad",
       "badge": "ipad_badge"
@@ -71,33 +66,33 @@
       "badge": "imac_badge"
     },
     {
-      "category": "MacBook Pro",
-      "search_pattern": "macbook *pro",
-      "badge": "imac_badge"
-    },
-    {
       "category": "MacBook",
       "search_pattern": "macbook",
       "badge": "imac_badge"
     },
     {
+      "category": "macOS",
+      "search_pattern": "os x",
+      "badge": "imac_badge"
+    },
+    {
+      "category": "macOS",
+      "search_pattern": "osx",
+      "badge": "imac_badge"
+    },
+    {
+      "category": "macOS",
+      "search_pattern": "mac os",
+      "badge": "imac_badge"
+    },
+    {
+      "category": "macOS",
+      "search_pattern": "macos",
+      "badge": "imac_badge"
+    },
+    {
       "category": "Mac",
       "search_pattern": "mac",
-      "badge": "imac_badge"
-    },
-    {
-      "category": "Mac Mini",
-      "search_pattern": "mac mini",
-      "badge": "imac_badge"
-    },
-    {
-      "category": "macOS",
-      "search_pattern": "os *x",
-      "badge": "imac_badge"
-    },
-    {
-      "category": "macOS",
-      "search_pattern": "mac *os",
       "badge": "imac_badge"
     },
     {
@@ -127,7 +122,12 @@
     },
     {
       "category": "Apple Music",
-      "search_pattern": "apple *music",
+      "search_pattern": "apple music",
+      "badge": "applemusic_badge"
+    },
+    {
+      "category": "Apple Music",
+      "search_pattern": "applemusic",
       "badge": "applemusic_badge"
     },
     {
@@ -137,7 +137,12 @@
     },
     {
       "category": "Apple Watch",
-      "search_pattern": "apple *watch",
+      "search_pattern": "apple watch",
+      "badge": "applewatch_badge"
+    },
+    {
+      "category": "Apple Watch",
+      "search_pattern": "applewatch",
       "badge": "applewatch_badge"
     },
     {
@@ -147,7 +152,12 @@
     },
     {
       "category": "Apple News",
-      "search_pattern": "apple *news",
+      "search_pattern": "apple news",
+      "badge": "default_badge"
+    },
+    {
+      "category": "Apple News",
+      "search_pattern": "applenews",
       "badge": "default_badge"
     },
     {
@@ -158,11 +168,6 @@
     {
       "category": "Safari",
       "search_pattern": "safari",
-      "badge": "default_badge"
-    },
-    {
-      "category": "Steve Jobs",
-      "search_pattern": "steve jobs",
       "badge": "default_badge"
     },
     {
@@ -178,51 +183,6 @@
     {
       "category": "iPhone",
       "search_pattern": "iphone",
-      "badge": "iphone_badge"
-    },
-    {
-      "category": "iPhone SE",
-      "search_pattern": "iphone se",
-      "badge": "iphone_badge"
-    },
-    {
-      "category": "iPhone 5",
-      "search_pattern": "iphone *5",
-      "badge": "iphone_badge"
-    },
-    {
-      "category": "iPhone 6",
-      "search_pattern": "iphone *6",
-      "badge": "iphone_badge"
-    },
-    {
-      "category": "iPhone 6S",
-      "search_pattern": "iphone *6s",
-      "badge": "iphone_badge"
-    },
-    {
-      "category": "iPhone 7s",
-      "search_pattern": "iphone *7s",
-      "badge": "iphone_badge"
-    },
-    {
-      "category": "iPhone 7",
-      "search_pattern": "iphone *7",
-      "badge": "iphone_badge"
-    },
-    {
-      "category": "iPhone 8",
-      "search_pattern": "iphone *8",
-      "badge": "iphone_badge"
-    },
-    {
-      "category": "iPhone X",
-      "search_pattern": "iphone *X",
-      "badge": "iphone_badge"
-    },
-    {
-      "category": "Face ID",
-      "search_pattern": "face *id",
       "badge": "iphone_badge"
     }
   ],
