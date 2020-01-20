@@ -10,7 +10,7 @@ An API for the Continuously Mac news [webapp](https://github.com/steven-martin/c
 
 ## Quick Start
 
-Download this repo locally and...
+Download this repo locally, update the .env file values with your own twitter account values, and ... 
 
 ```
 npm i

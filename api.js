@@ -33,4 +33,6 @@ cron.schedule('0,15,30,45 * * * *', () => {
 });
 
 const PORT = process.env.PORT || 3000;
+
+console.log('API running on Port ', PORT);
 app.listen(PORT);
