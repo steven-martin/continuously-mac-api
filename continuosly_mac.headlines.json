@@ -55,38 +55,34 @@
     }
   ],
   "categories": [
+
     {
-      "category": "iPad",
-      "search_pattern": "ipad",
-      "badge": "ipad_badge"
-    },
-    {
-      "category": "iMac",
+      "category": "Mac",
       "search_pattern": "imac",
       "badge": "imac_badge"
     },
     {
-      "category": "MacBook",
+      "category": "Mac",
       "search_pattern": "macbook",
       "badge": "imac_badge"
     },
     {
-      "category": "macOS",
+      "category": "Mac",
       "search_pattern": "os x",
       "badge": "imac_badge"
     },
     {
-      "category": "macOS",
+      "category": "Mac",
       "search_pattern": "osx",
       "badge": "imac_badge"
     },
     {
-      "category": "macOS",
+      "category": "Mac",
       "search_pattern": "mac os",
       "badge": "imac_badge"
     },
     {
-      "category": "macOS",
+      "category": "Mac",
       "search_pattern": "macos",
       "badge": "imac_badge"
     },
@@ -95,96 +91,73 @@
       "search_pattern": "mac",
       "badge": "imac_badge"
     },
-    {
-      "category": "App Store",
-      "search_pattern": "app *store",
-      "badge": "appstore_badge"
-    },
-    {
-      "category": "Apple TV",
-      "search_pattern": "apple *tv",
-      "badge": "appletv_badge"
-    },
-    {
-      "category": "tvOS",
-      "search_pattern": "tvOS",
-      "badge": "appletv_badge"
-    },
-    {
-      "category": "iPod",
-      "search_pattern": "ipod",
-      "badge": "applemusic_badge"
-    },
-    {
-      "category": "iTunes",
-      "search_pattern": "itunes",
-      "badge": "applemusic_badge"
-    },
-    {
-      "category": "Apple Music",
-      "search_pattern": "apple music",
-      "badge": "applemusic_badge"
-    },
-    {
-      "category": "Apple Music",
-      "search_pattern": "applemusic",
-      "badge": "applemusic_badge"
-    },
-    {
-      "category": "watchOS",
-      "search_pattern": "watchos",
-      "badge": "applewatch_badge"
-    },
-    {
-      "category": "Apple Watch",
-      "search_pattern": "apple watch",
-      "badge": "applewatch_badge"
-    },
-    {
-      "category": "Apple Watch",
-      "search_pattern": "applewatch",
-      "badge": "applewatch_badge"
-    },
-    {
-      "category": "iBooks",
-      "search_pattern": "ibooks",
-      "badge": "ibooks_badge"
-    },
-    {
-      "category": "Apple News",
-      "search_pattern": "apple news",
-      "badge": "default_badge"
-    },
-    {
-      "category": "Apple News",
-      "search_pattern": "applenews",
-      "badge": "default_badge"
-    },
-    {
-      "category": "WWDC",
-      "search_pattern": "wwdc",
-      "badge": "default_badge"
-    },
-    {
-      "category": "Safari",
-      "search_pattern": "safari",
-      "badge": "default_badge"
-    },
-    {
-      "category": "Siri",
-      "search_pattern": "siri",
-      "badge": "default_badge"
-    },
-    {
-      "category": "iOS",
-      "search_pattern": "ios",
-      "badge": "iphone_badge"
-    },
+
     {
       "category": "iPhone",
       "search_pattern": "iphone",
       "badge": "iphone_badge"
+    },
+
+    {
+        "category": "iPad",
+        "search_pattern": "ipad",
+        "badge": "ipad_badge"
+    },
+
+    {
+      "category": "Watch",
+      "search_pattern": "watchos",
+      "badge": "applewatch_badge"
+    },
+    {
+      "category": "Watch",
+      "search_pattern": "apple watch",
+      "badge": "applewatch_badge"
+    },
+    {
+      "category": "Watch",
+      "search_pattern": "applewatch",
+      "badge": "applewatch_badge"
+    },
+
+    {
+      "category": "TV",
+      "search_pattern": "apple *tv",
+      "badge": "appletv_badge"
+    },
+    {
+      "category": "TV",
+      "search_pattern": "tvOS",
+      "badge": "appletv_badge"
+    },
+
+    {
+      "category": "Music",
+      "search_pattern": "ipod",
+      "badge": "applemusic_badge"
+    },
+    {
+      "category": "Music",
+      "search_pattern": "itunes",
+      "badge": "applemusic_badge"
+    },
+    {
+      "category": "Music",
+      "search_pattern": "apple music",
+      "badge": "applemusic_badge"
+    },
+    {
+      "category": "Music",
+      "search_pattern": "applemusic",
+      "badge": "applemusic_badge"
+    },
+
+    {
+      "category": "WWDC",
+      "search_pattern": "wwdc",
+      "badge": "default_badge"
     }
+
   ],
   "sort": "top20"
 }
